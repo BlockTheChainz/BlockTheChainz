@@ -3,10 +3,6 @@
   <h2 align="center">Block The Chainz -> Dive with us into the Blockchain!</h2>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=830606&background=A6FFC900&center=true&vCenter=true&width=500&height=100&lines=Blockchain+Developer;Solidity;Ethereum">
-</p>
-
 #### ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Cairo-informational?style=flat&logo=solidity&logoColor=white&color=blue) ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=blue) ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=blue) ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=blue) ![](https://img.shields.io/badge/Standard-EIP712-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/DAO-Governance-blue) ![](https://img.shields.io/badge/Wallet-Metamask-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Wallet-Coinbase-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Wallet-Wallet_Connect-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Wallet-Fortmatic-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Layer2-Starknet-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Dapp-Staking_Tokens-informational?style=flat&logo=ethereum&logoColor=white&color=blue) ![](https://img.shields.io/badge/Layer2-ZkSync-informational?style=flat&logo=ethereum&logoColor=white&color=blue)
 <!-- markdownlint-enable MD033 -->
 
